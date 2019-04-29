@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Elevator.iml" filepath="$PROJECT_DIR$/.idea/modules/Elevator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Elevator/.idea/modules/Elevator_main.iml" filepath="$PROJECT_DIR$/../Elevator/.idea/modules/Elevator_main.iml" group="Elevator" />
+      <module fileurl="file://$PROJECT_DIR$/../Elevator/.idea/modules/Elevator_test.iml" filepath="$PROJECT_DIR$/../Elevator/.idea/modules/Elevator_test.iml" group="Elevator" />
+    </modules>
+  </component>
+</project>
